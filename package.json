@@ -1,8 +1,8 @@
 {
   "name": "vdb-theme-dark",
   "publisher": "TibeDev",
-  "displayName": "VDB Theme",
-  "description": "VDB theme",
+  "displayName": "VDB Theme Dark",
+  "description": "VDB theme Dark",
   "icon": "icon.png",
   "version": "1.0.0",
   "engines": {
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "VDB Theme",
+        "label": "VDB Theme Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vdb-theme.json"
       }

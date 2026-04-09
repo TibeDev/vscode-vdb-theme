@@ -1,5 +1,5 @@
 {
-  "name": "vdb-theme",
+  "name": "vdb-theme-dark",
   "type": "dark",
   "colors": {
     "editor.background": "#121212",
