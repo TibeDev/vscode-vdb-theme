@@ -1,2 +1,3 @@
-# vscode-vdb-theme
- Theme for vscode
+# &lt;/VSCODE-VDB-THEME&gt;
+
+![Cover](./art/cover.png)
