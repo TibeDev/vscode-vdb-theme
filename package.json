@@ -1,7 +1,9 @@
 {
-  "name": "vdb-theme",
+  "name": "vdb-theme-dark",
+  "publisher": "TibeDev",
   "displayName": "VDB Theme",
   "description": "VDB theme",
+  "icon": "icon.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.70.0"
@@ -17,5 +19,9 @@
         "path": "./themes/vdb-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TibeDev/vscode-vdb-theme.git"
   }
 }
